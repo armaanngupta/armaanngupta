@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Backend Development  <br>🚀 I'm looking for internships <br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Java and Spring Boot<br>💬 Ask me about NodeJS and AWS<br>⚡ Fun fact -: I would be more popular being a photographer than a developer!!
+🔭 I’m currently learning Backend Development  <br>🚀 I'm looking for internships <br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Java and Spring Boot<br>💬 Ask me about CS Fundamentals<br>⚡ Fun fact -: I would be more popular being a photographer than a developer!!
 
 
 ## 🌐 Socials:
